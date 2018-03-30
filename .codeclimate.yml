@@ -1,0 +1,11 @@
+engines:
+  markdownlint:
+    enabled: true
+    checks:
+      MD024: # Allow multiple headings of the same name
+        enabled: false
+      MD036: # Allow emphasis used instead of headers
+        enabled: false
+ratings:
+  paths:
+    - "**.md"
