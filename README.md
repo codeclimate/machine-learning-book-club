@@ -48,3 +48,16 @@ course](https://developers.google.com/machine-learning/crash-course/).
   from Framing
 - Work through [check your understanding](https://developers.google.com/machine-learning/crash-course/descending-into-ml/check-your-understanding)
   from Descending into ML
+
+## Week 3: Reducing Loss
+
+### Before we meet
+
+- [OPTIONAL] Review the content that will be discussed during the meeting
+
+### During meeting
+
+- Watch Reducing Loss [video lecture](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+- Go through Reducing Loss [readings](https://developers.google.com/machine-learning/crash-course/reducing-loss/an-iterative-approach)
+- Work through Reducing Loss [playground exercise](https://developers.google.com/machine-learning/crash-course/reducing-loss/playground-exercise)
+- Work through Reducing Loss [check your understanding](https://developers.google.com/machine-learning/crash-course/reducing-loss/check-your-understanding)
