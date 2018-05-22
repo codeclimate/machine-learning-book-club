@@ -61,3 +61,16 @@ course](https://developers.google.com/machine-learning/crash-course/).
 - Go through Reducing Loss [readings](https://developers.google.com/machine-learning/crash-course/reducing-loss/an-iterative-approach)
 - Work through Reducing Loss [playground exercise](https://developers.google.com/machine-learning/crash-course/reducing-loss/playground-exercise)
 - Work through Reducing Loss [check your understanding](https://developers.google.com/machine-learning/crash-course/reducing-loss/check-your-understanding)
+
+## Week 4: First Steps with TF, Generalization, Training and Test Sets
+
+### Before meeting
+
+- [OPTONAL] Work through any [playground exercises](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises)
+  not done in week 1
+
+### During meeting
+
+- [First Steps with TF ](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
+- [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/video-lecture)
+- [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
