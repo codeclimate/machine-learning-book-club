@@ -74,3 +74,9 @@ course](https://developers.google.com/machine-learning/crash-course/).
 - [First Steps with TF ](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
 - [Generalization](https://developers.google.com/machine-learning/crash-course/generalization/video-lecture)
 - [Training and Test Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
+
+## Week 5: Validation
+
+### During meeting
+
+- [Validation](https://developers.google.com/machine-learning/crash-course/validation/video-lecture)
