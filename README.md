@@ -80,3 +80,15 @@ course](https://developers.google.com/machine-learning/crash-course/).
 ### During meeting
 
 - [Validation](https://developers.google.com/machine-learning/crash-course/validation/video-lecture)
+
+## Week 6: Representation
+
+### During meeting
+
+- [Representation](https://developers.google.com/machine-learning/crash-course/representation/video-lecture)
+
+## Week 7: Feature Crosses
+
+### During meeting
+
+- [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
