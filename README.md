@@ -92,3 +92,16 @@ course](https://developers.google.com/machine-learning/crash-course/).
 ### During meeting
 
 - [Feature Crosses](https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture)
+
+## Week 8: Regularization for Simplicity, Logistic Regression
+
+### During meeting
+
+- [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture)
+- [Logistic Regression](https://developers.google.com/machine-learning/crash-course/logistic-regression/video-lecture)
+
+## Week 9: Classification
+
+### During meeting
+
+- [Classification](https://developers.google.com/machine-learning/crash-course/classification/video-lecture)
